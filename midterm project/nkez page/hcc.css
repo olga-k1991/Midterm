@@ -1,0 +1,186 @@
+
+
+
+
+body { background: #1d1e1e; height: 100%;	width: 100%;}
+				
+			
+div.my_wrapper{
+	
+     width: 700px;
+     height: 100%;
+    
+
+	left:60px;
+	top:3px;
+    
+   /* border: 1px solid white;  */
+}
+
+
+div.my_header{
+	
+	
+    width: 800px;
+    height: 110px;	
+	/*top-decor_02.png*/
+    border: 0px solid green;  
+   
+}
+
+div.my_left_header{
+	
+	
+    width: 335px;
+    height: 50px;
+  
+    float: left;
+	
+	/*top-decor_02.png*/
+    border: 0px solid red;  
+  
+   background-image:  url(img/top-decor_02.png); background-position:  80px 0px;   background-repeat: no-repeat;  
+}
+
+div.my_right_header{
+		
+    width: 400px;
+    height: 140px;
+    float: left;  
+	border: 0px solid red;  
+	    
+  background-image:  url(img/top-decor_05.png); background-position:  20px 0px;   background-repeat: no-repeat;
+  /*background:url('top-decor_05.png') -100px 0;*/
+}
+
+
+div.my_nav{
+	
+	
+    width: 800px;
+    height: 50px;
+   
+     border: 0px solid red;  
+     
+	/*position:absolute;*/
+	/*left:60px;
+	top:100px;*/
+    background-image:  url(img/cropped-image+tool-bar_04.png);background-position:  70px 0px;   background-repeat: no-repeat;
+    /*background: #ECF6CE;*/
+}
+
+div.my_main_img{
+	
+    height: 260px;
+      width: 800px;
+	border: 0px solid red; 
+  /*background-image:  url(cropped-image+tool-bar_07.png); background-position:  0px 0px;   background-repeat: no-repeat;*/
+
+}
+
+
+
+
+
+div.my_txt1{
+	
+    height: 40px;
+    	border: 0px solid red; 
+  background-image:  url(img/text-slices_02.png); background-position:  280px 0px;   background-repeat: no-repeat;
+}
+
+div.my_txt2{
+	
+    height: 100px;
+ width: 780px;
+ 
+ 	border: 0px solid green; 
+  background-image:  url(img/text-slices_06.png); background-position:  55px 10px;   background-repeat: no-repeat;
+}
+
+
+
+
+div.my_txt3{
+	
+     height: 52px;
+    
+	
+	border: 0px solid red; 
+  background-image:  url(img/text-slices_08.png); background-position:  270px 0px;   background-repeat: no-repeat;
+
+}
+
+div.my_txt4{
+	
+     height: 20px;
+    
+border: 0px solid red; 
+	
+  background-image:  url(img/text-slices_13.png); background-position:  40px 0px;   background-repeat: no-repeat;
+
+}
+
+
+
+div.my_bottom_img{
+	
+	
+	width: 800px;
+    height: 210px;
+	 border: 0px solid blue; 
+}
+
+div.my_left_img{
+	
+    width: 265px;
+    height: 200px;
+    float: left;
+ 
+ 
+ border: 0px solid red; 
+  background-image:  url(img/bottom-images_02.png); background-position:  110px 0px;   background-repeat: no-repeat;
+}
+
+div.my_center_img{
+		
+    width: 200px;
+    height: 200px;
+    float: left;  
+  
+	     
+	border: 0px solid green;     
+  background-image:  url(img/bottom-images_04.png); background-position:  35px 0px;   background-repeat: no-repeat;
+  
+}
+
+div.my_right_img{
+		
+		
+		border: 0px solid red; 
+		
+    width: 200px;
+    height: 200px;
+    float: left;  
+  
+
+	    
+  background-image:  url(img/bottom-images_06.png); background-position:  17px 0px;   background-repeat: no-repeat;
+
+}
+
+
+
+div.my_foot{
+	
+    height: 70px;
+     width: 750px;
+    
+	border: 0px solid red;  
+	
+  background-image:  url(img/bottom-bar_03.png); background-position:  70px 20px;   background-repeat: no-repeat;
+}
+
+
+
+
